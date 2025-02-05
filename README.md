@@ -47,5 +47,3 @@ A JSON Web Token (JWT) is an open standard (RFC 7519) for securely transmitting 
 - **Stateless:** Being stateless can be a double-edged sword; revoking tokens can be complex without server-side session management.
 - **Security:** If not implemented correctly, JWTs can be vulnerable to attacks such as token theft, replay attacks, and brute force.
 - **Complexity:** Proper implementation and management of JWTs require a thorough understanding of security best practices.
-
-Feel free to ask if you have any other questions!
